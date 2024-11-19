@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/沖　美幸/Documents/制作/24_個人製作/Flooper/Content/ranking.png</SourceFile>
+  <SourceTime>2024-11-12T15:24:03.7277326+09:00</SourceTime>
+  <DestFile>C:/Users/沖　美幸/Documents/制作/24_個人製作/Flooper/Content/bin/DesktopGL/Content/ranking.xnb</DestFile>
+  <DestTime>2024-11-12T15:30:55.2194617+09:00</DestTime>
+  <Importer>TextureImporter</Importer>
+  <ImporterTime>2024-08-17T02:05:56+09:00</ImporterTime>
+  <Processor>TextureProcessor</Processor>
+  <ProcessorTime>2024-08-17T02:05:56+09:00</ProcessorTime>
+  <Parameters>
+    <Key>ColorKeyColor</Key>
+    <Value>255,0,255,255</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ColorKeyEnabled</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>GenerateMipmaps</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ResizeToPowerOfTwo</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>MakeSquare</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Color</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
